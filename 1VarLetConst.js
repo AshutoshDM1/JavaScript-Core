@@ -75,9 +75,3 @@ hello(); // ?Hi!
 function hello() {
   console.log("Hi!");
 }
-
-
-
-
-
-
